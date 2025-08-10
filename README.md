@@ -135,6 +135,21 @@ When deploying to production, set these environment variables:
 
 ---
 
+## Output Screenshots
+
+Below are some example screenshots of the application running:
+
+<img width="1678" height="964" alt="Screenshot (692)" src="https://github.com/user-attachments/assets/4a95e6bb-4556-4729-af10-0f5310cb15b4" />
+
+
+<img width="1696" height="959" alt="Screenshot (693)" src="https://github.com/user-attachments/assets/92110d8e-932e-4f0d-8134-5cf5c8752516" />
+
+
+<img width="1694" height="955" alt="Screenshot (694)" src="https://github.com/user-attachments/assets/9485690f-0391-40d8-b592-b2a04c2a2d67" />
+
+
+
+
 ## License
 
 This project is licensed under the MIT License.
