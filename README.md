@@ -1,4 +1,4 @@
-# Java Spring Boot Employee Skills Management API
+# Employee Skill Tracker & Upskilling Recommendation
 
 This project is a Spring Boot REST API for managing employees, their skills, and industry-related skill recommendations.  
 It uses **MySQL** as the database and is designed to be deployed with **Docker** on Render.
